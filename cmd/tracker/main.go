@@ -64,4 +64,5 @@ func main() {
 	for _, v := range trainingLog {
 		fmt.Println(v)
 	}
+
 }
